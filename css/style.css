@@ -1,0 +1,24 @@
+form{
+    border: 1px solid black ;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-color: cornflowerblue;
+
+}
+.inputstyle{
+    width: 20%;
+    padding: 10px 12px ;
+    box-sizing: border-box;
+    margin: 8px;
+}
+.otherinputs{
+    margin: 8px;
+}
+#buttonthe{
+    background-color: aqua;
+    color: black ;
+    padding: 5px 5px ;
+    width: 20%;
+}
